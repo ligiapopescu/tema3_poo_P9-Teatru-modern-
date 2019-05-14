@@ -1,0 +1,153 @@
+5
+opera
+Nunta lui Figaro
+20
+4
+50
+Mihai Popescu
+bass
+
+50
+Ioan Stefan
+tenor
+
+50
+Ioan Stefan
+tenor
+
+50
+Mihai Popescu
+bass
+toate
+drama
+3
+20 30 20
+mai
+30
+20 30 21
+mai
+25
+20 30 20
+mai
+30
+
+teatru
+Micul print
+60
+toate
+comedie
+interactiv
+4
+12 00 5
+mai
+50
+13 45 21
+mai
+20
+17 00 22
+mai
+30
+12 00 30
+mai
+50
+
+circ
+Alice in tara minunilor
+240
+3
+iluzionism
+1
+iepure
+toate
+gimnastica
+0
+toate
+prezentare animale dresate
+3
+leu
+tigru
+elefant
+toate
+3
+18 30 10
+mai
+100
+18 30 11
+mai
+100
+18 30 12
+mai
+150
+
+opera
+Flautul fermecat
+15
+2
+70
+Catalin Stefan
+tenor
+
+50
+Ioan Stefan
+tenor
+toate
+comedie
+2
+21 30 17
+mai
+30
+20 00 18
+mai
+30
+
+circ
+Reveria
+100
+4
+magie
+2
+iepure
+papagal
+toate
+dresaj
+1
+elefant
+toate
+dans
+0
+toate
+magie
+0
+adulti
+1
+20 30 10
+iunie
+100
+
+opera
+Traviata
+10
+3
+35
+Ionut Oprea
+bariton
+
+35
+Teodor Ion
+bariton
+
+40
+Teodor Ion
+bass
+adulti
+actiune
+4
+20 30 21
+mai
+30
+20 30 3
+iunie
+25
+20 30 4
+iunie
+30
